@@ -95,8 +95,8 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-# cdn: "https://plaxy314.github.io"
-cdn: "http://127.0.0.1:4000"
+cdn: "https://plaxy314.github.io/vagabond"
+# cdn: "http://127.0.0.1:4000"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/sn_avatar.jpg"
