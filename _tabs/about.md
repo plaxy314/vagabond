@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-**Welcome to 朝花夕拾 (Dawn Blossoms Plucked at Dusk)!**
+## 朝花夕拾 - Dawn Blossoms Plucked at Dusk
 
 > *So what happened to the old theory that I fell in love with as a youth? Well, I would say it’s become an old lady, that has very little attractive left in her and the young today will not have their hearts pound anymore when they look at her. But, we can say the best we can for any old woman, that she has been a very good mother and she has given birth to some very good children.* 
 
