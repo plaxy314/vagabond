@@ -25,7 +25,7 @@ People tell search engines what they want. By analyzing their queries and online
 
 For the first time in history, it is possible to observe and experiment with billions of users in real time. These pCTR/pCVR models are tested through large-scale online experiments, often involving billions of ad impressions. The predictions are surprisingly accurate, as hundreds of billions of dollars are at stake.
 
-<img alt="Schrödinger’s Cat" align="left" width="400px" src="/assets/img/about/gilded-childhood.webp">
+<img alt="Schrödinger’s Cat" align="left" width="400px" src="/assets/img/about/schrodingers-cat.webp">
 The Ad experiment with human reminds me of the thought experiment with Schrödinger’s cat. The human brain is essentially a sealed box with an unknown mechanism. Such a system can produce two possible outcomes: to be (click) or not to be (click). While we can accurately predict the odds of each outcome, it is impossible to know beforehand what would happen in a given circumstance. 
 
 Moreover, if the subject is aware of being watched, their behavior may change. It seems that the very act of observation inevitably alters the outcome. The striking similarity makes me wonder: Could quantum mechanics have anything to do with the mechanism underlying human behavior?
